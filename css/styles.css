@@ -1,0 +1,31 @@
+body {
+  background-color: #f6f578;
+}
+hr {
+
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+  height: 0px;
+  width: 10%;
+}
+h1 {
+color: #1b6ca8;
+
+}
+h3 {
+color: #1b6ca8;
+
+}
+img {
+  align-items: center;
+  margin: auto, 100px;
+}
+.carousel-control-prev {
+border-color: red;
+margin: auto;
+}
+.carousel-inner {
+margin: auto;
+}
